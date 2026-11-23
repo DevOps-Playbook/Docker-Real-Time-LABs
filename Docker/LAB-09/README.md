@@ -21,7 +21,7 @@ Click **Start**.
 ## Step 1: Open the lab
 
 ```bash
-cd ~/cloudshell_open/Docker-Real-Time-LABs/Docker/LAB-09 && ls -la
+cd Docker/LAB-09 && ls -la
 ```
 
 Notice the `logs/` folder already exists on the host, mounted into the container at

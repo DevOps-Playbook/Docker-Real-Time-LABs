@@ -19,7 +19,7 @@ Click **Start**.
 ## Step 1: Open the lab
 
 ```bash
-cd ~/cloudshell_open/Docker-Real-Time-LABs/Docker/LAB-05 && ls
+cd Docker/LAB-05 && ls
 ```
 
 ## Step 2: Reproduce

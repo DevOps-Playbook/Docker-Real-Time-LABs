@@ -22,7 +22,7 @@ Click **Start**.
 ## Step 1: Open the lab
 
 ```bash
-cd ~/cloudshell_open/Docker-Real-Time-LABs/Docker/LAB-10 && ls -la
+cd Docker/LAB-10 && ls -la
 ```
 
 This project uses a two-stage `Dockerfile`:

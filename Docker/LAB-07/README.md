@@ -20,7 +20,7 @@ Click **Start**.
 ## Step 1: Open the lab
 
 ```bash
-cd ~/cloudshell_open/Docker-Real-Time-LABs/Docker/LAB-07 && ls -la
+cd Docker/LAB-07 && ls -la
 ```
 
 Notice this folder already has a (committed-by-accident) `node_modules/` and `.git/`

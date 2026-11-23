@@ -23,7 +23,7 @@ Click **Start**.
 ## Step 1: Open the lab
 
 ```bash
-cd ~/cloudshell_open/Docker-Real-Time-LABs/Docker/LAB-04 && ls
+cd Docker/LAB-04 && ls
 ```
 
 ## Step 2: Reproduce

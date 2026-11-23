@@ -21,7 +21,7 @@ Click **Start**.
 ## Step 1: Open the lab
 
 ```bash
-cd ~/cloudshell_open/Docker-Real-Time-LABs/Docker/LAB-06 && ls -la
+cd Docker/LAB-06 && ls -la
 ```
 
 Notice there are now two services: `web` (root of this folder) and `api` (in `./api`).

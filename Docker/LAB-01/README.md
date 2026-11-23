@@ -19,10 +19,13 @@ Click **Start** to begin.
 
 ## Step 1: Clone in and look around
 
-Cloud Shell should already have this lab open at `~/cloudshell_open/Docker-Real-Time-LABs/Docker/LAB-01`.
+Cloud Shell should already have this repo cloned, with your terminal sitting in its root
+folder (run `pwd` if you want to confirm — it'll be `.../Docker-Real-Time-LABs` or
+`.../Docker-Real-Time-LABs-<number>` if you've opened this repo before). Move into this
+lab's folder from there:
 
 ```bash
-cd ~/cloudshell_open/Docker-Real-Time-LABs/Docker/LAB-01 && ls
+cd Docker/LAB-01 && ls
 ```
 
 Take a look at the three files: `server.js`, `Dockerfile`, `docker-compose.yml`. Don't fix
