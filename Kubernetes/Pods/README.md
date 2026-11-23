@@ -1,4 +1,4 @@
-# Kubernetes Real-Time LABs — Pods (Minikube)
+# Kubernetes Real-Time LABs - Pods (Minikube)
 
 Five "break it on purpose" incidents, all focused on the single most fundamental Kubernetes
 object: the **Pod**. Same philosophy as the Docker labs in this repo — each one ships broken,
