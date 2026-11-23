@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: app-cfg
+data:
+  APP_MODE: "production"
+  FEATURE_FLAG_NEW_CHECKOUT: "true"
