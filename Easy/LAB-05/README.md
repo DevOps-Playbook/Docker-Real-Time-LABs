@@ -1,8 +1,4 @@
----
-walkthrough-tutorial-difficulty: 1
-walkthrough-tutorial-duration: 10
----
-
+<walkthrough-tutorial-url url="https://github.com/DevOps-Playbook/Docker-Real-Time-LABs"></walkthrough-tutorial-url>
 <walkthrough-tutorial-difficulty difficulty="1"></walkthrough-tutorial-difficulty>
 <walkthrough-tutorial-duration duration="10"></walkthrough-tutorial-duration>
 
