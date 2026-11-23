@@ -22,7 +22,7 @@ Click **Start**.
 ## Step 1: Open the lab
 
 ```bash
-cd ~/cloudshell_open/Docker-Real-Time-LABs/Easy/LAB-10 && ls -la
+cd ~/cloudshell_open/Docker-Real-Time-LABs/Docker/LAB-10 && ls -la
 ```
 
 This project uses a two-stage `Dockerfile`:
@@ -55,7 +55,7 @@ stage is fine. The bug has to be in how the **final stage** uses the builder's o
 
 ## Step 4: Inspect the final stage
 
-<walkthrough-editor-open-file filePath="Docker-Real-Time-LABs/Easy/LAB-10/Dockerfile">
+<walkthrough-editor-open-file filePath="Docker-Real-Time-LABs/Docker/LAB-10/Dockerfile">
 Open the Dockerfile
 </walkthrough-editor-open-file>
 

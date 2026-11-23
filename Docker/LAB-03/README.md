@@ -21,7 +21,7 @@ Click **Start**.
 ## Step 1: Open the lab
 
 ```bash
-cd ~/cloudshell_open/Docker-Real-Time-LABs/Easy/LAB-03 && ls
+cd ~/cloudshell_open/Docker-Real-Time-LABs/Docker/LAB-03 && ls
 ```
 
 ## Step 2: Reproduce
@@ -49,7 +49,7 @@ grep MONGO server.js
 grep -A3 environment docker-compose.yml
 ```
 
-<walkthrough-editor-open-file filePath="Docker-Real-Time-LABs/Easy/LAB-03/docker-compose.yml">
+<walkthrough-editor-open-file filePath="Docker-Real-Time-LABs/Docker/LAB-03/docker-compose.yml">
 Open docker-compose.yml
 </walkthrough-editor-open-file>
 

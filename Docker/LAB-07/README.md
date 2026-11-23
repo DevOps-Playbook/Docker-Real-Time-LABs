@@ -20,7 +20,7 @@ Click **Start**.
 ## Step 1: Open the lab
 
 ```bash
-cd ~/cloudshell_open/Docker-Real-Time-LABs/Easy/LAB-07 && ls -la
+cd ~/cloudshell_open/Docker-Real-Time-LABs/Docker/LAB-07 && ls -la
 ```
 
 Notice this folder already has a (committed-by-accident) `node_modules/` and `.git/`
@@ -46,7 +46,7 @@ du -sh node_modules .git 2>/dev/null
 ls -la
 ```
 
-<walkthrough-editor-open-file filePath="Docker-Real-Time-LABs/Easy/LAB-07/Dockerfile">
+<walkthrough-editor-open-file filePath="Docker-Real-Time-LABs/Docker/LAB-07/Dockerfile">
 Open the Dockerfile
 </walkthrough-editor-open-file>
 

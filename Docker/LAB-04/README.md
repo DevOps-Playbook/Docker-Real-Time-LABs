@@ -23,7 +23,7 @@ Click **Start**.
 ## Step 1: Open the lab
 
 ```bash
-cd ~/cloudshell_open/Docker-Real-Time-LABs/Easy/LAB-04 && ls
+cd ~/cloudshell_open/Docker-Real-Time-LABs/Docker/LAB-04 && ls
 ```
 
 ## Step 2: Reproduce
@@ -51,7 +51,7 @@ is hiding it.
 
 ## Step 4: Inspect what's mounted
 
-<walkthrough-editor-open-file filePath="Docker-Real-Time-LABs/Easy/LAB-04/docker-compose.yml">
+<walkthrough-editor-open-file filePath="Docker-Real-Time-LABs/Docker/LAB-04/docker-compose.yml">
 Open docker-compose.yml
 </walkthrough-editor-open-file>
 

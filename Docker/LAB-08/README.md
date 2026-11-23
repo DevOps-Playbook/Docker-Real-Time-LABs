@@ -19,7 +19,7 @@ Click **Start**.
 ## Step 1: Open the lab
 
 ```bash
-cd ~/cloudshell_open/Docker-Real-Time-LABs/Easy/LAB-08 && ls
+cd ~/cloudshell_open/Docker-Real-Time-LABs/Docker/LAB-08 && ls
 ```
 
 ## Step 2: Reproduce
@@ -54,7 +54,7 @@ docker inspect --format='{{json .State.Health}}' incident-web | python3 -m json.
 Look at the `Log` section — it shows the actual command Docker ran for the health check and
 its output/exit code.
 
-<walkthrough-editor-open-file filePath="Docker-Real-Time-LABs/Easy/LAB-08/Dockerfile">
+<walkthrough-editor-open-file filePath="Docker-Real-Time-LABs/Docker/LAB-08/Dockerfile">
 Open the Dockerfile
 </walkthrough-editor-open-file>
 

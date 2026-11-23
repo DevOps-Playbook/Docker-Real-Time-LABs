@@ -19,10 +19,10 @@ Click **Start** to begin.
 
 ## Step 1: Clone in and look around
 
-Cloud Shell should already have this lab open at `~/cloudshell_open/Docker-Real-Time-LABs/Easy/LAB-01`.
+Cloud Shell should already have this lab open at `~/cloudshell_open/Docker-Real-Time-LABs/Docker/LAB-01`.
 
 ```bash
-cd ~/cloudshell_open/Docker-Real-Time-LABs/Easy/LAB-01 && ls
+cd ~/cloudshell_open/Docker-Real-Time-LABs/Docker/LAB-01 && ls
 ```
 
 Take a look at the three files: `server.js`, `Dockerfile`, `docker-compose.yml`. Don't fix
@@ -42,7 +42,7 @@ Now check the container's status:
 docker compose ps
 ```
 
-<walkthrough-editor-open-file filePath="Docker-Real-Time-LABs/Easy/LAB-01/Dockerfile">
+<walkthrough-editor-open-file filePath="Docker-Real-Time-LABs/Docker/LAB-01/Dockerfile">
 Open the Dockerfile
 </walkthrough-editor-open-file>
 
@@ -73,7 +73,7 @@ You should now see the mismatch: the `CMD` runs a filename that isn't in this pr
 
 ## Step 5: Apply the fix
 
-<walkthrough-editor-open-file filePath="Docker-Real-Time-LABs/Easy/LAB-01/Dockerfile">
+<walkthrough-editor-open-file filePath="Docker-Real-Time-LABs/Docker/LAB-01/Dockerfile">
 Edit the Dockerfile
 </walkthrough-editor-open-file>
 

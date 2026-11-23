@@ -21,7 +21,7 @@ Click **Start**.
 ## Step 1: Open the lab
 
 ```bash
-cd ~/cloudshell_open/Docker-Real-Time-LABs/Easy/LAB-02 && ls
+cd ~/cloudshell_open/Docker-Real-Time-LABs/Docker/LAB-02 && ls
 ```
 
 ## Step 2: Reproduce
@@ -53,7 +53,7 @@ docker compose exec web wget -qO- http://localhost:3000/health
 If that works, the app itself is fine — the problem is entirely in how the container's port
 is exposed to the host.
 
-<walkthrough-editor-open-file filePath="Docker-Real-Time-LABs/Easy/LAB-02/docker-compose.yml">
+<walkthrough-editor-open-file filePath="Docker-Real-Time-LABs/Docker/LAB-02/docker-compose.yml">
 Open docker-compose.yml
 </walkthrough-editor-open-file>
 

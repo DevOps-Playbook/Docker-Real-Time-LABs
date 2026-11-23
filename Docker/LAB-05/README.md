@@ -19,7 +19,7 @@ Click **Start**.
 ## Step 1: Open the lab
 
 ```bash
-cd ~/cloudshell_open/Docker-Real-Time-LABs/Easy/LAB-05 && ls
+cd ~/cloudshell_open/Docker-Real-Time-LABs/Docker/LAB-05 && ls
 ```
 
 ## Step 2: Reproduce
@@ -33,7 +33,7 @@ which image reference it couldn't resolve.
 
 ## Step 3: Diagnose
 
-<walkthrough-editor-open-file filePath="Docker-Real-Time-LABs/Easy/LAB-05/Dockerfile">
+<walkthrough-editor-open-file filePath="Docker-Real-Time-LABs/Docker/LAB-05/Dockerfile">
 Open the Dockerfile
 </walkthrough-editor-open-file>
 

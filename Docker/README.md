@@ -29,7 +29,7 @@ step-by-step version, or just read it directly on GitHub.
 Each lab is fully runnable on its own:
 
 ```bash
-cd Easy/LAB-01
+cd Docker/LAB-01
 docker compose up -d --build
 docker compose logs web
 # ...debug, fix, re-verify, as described in the lab's README.md...

@@ -21,7 +21,7 @@ Click **Start**.
 ## Step 1: Open the lab
 
 ```bash
-cd ~/cloudshell_open/Docker-Real-Time-LABs/Easy/LAB-06 && ls -la
+cd ~/cloudshell_open/Docker-Real-Time-LABs/Docker/LAB-06 && ls -la
 ```
 
 Notice there are now two services: `web` (root of this folder) and `api` (in `./api`).
@@ -46,7 +46,7 @@ something about how `web` is trying to reach it.
 
 ## Step 4: Think about networking, not code
 
-<walkthrough-editor-open-file filePath="Docker-Real-Time-LABs/Easy/LAB-06/server.js">
+<walkthrough-editor-open-file filePath="Docker-Real-Time-LABs/Docker/LAB-06/server.js">
 Open server.js
 </walkthrough-editor-open-file>
 

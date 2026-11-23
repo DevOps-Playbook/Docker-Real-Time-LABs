@@ -21,7 +21,7 @@ Click **Start**.
 ## Step 1: Open the lab
 
 ```bash
-cd ~/cloudshell_open/Docker-Real-Time-LABs/Easy/LAB-09 && ls -la
+cd ~/cloudshell_open/Docker-Real-Time-LABs/Docker/LAB-09 && ls -la
 ```
 
 Notice the `logs/` folder already exists on the host, mounted into the container at
@@ -48,7 +48,7 @@ ls -ld logs
 Compare the user the container runs as (from `Dockerfile`'s `USER` instruction) against
 the ownership and permissions of the mounted `logs/` directory.
 
-<walkthrough-editor-open-file filePath="Docker-Real-Time-LABs/Easy/LAB-09/Dockerfile">
+<walkthrough-editor-open-file filePath="Docker-Real-Time-LABs/Docker/LAB-09/Dockerfile">
 Open the Dockerfile
 </walkthrough-editor-open-file>
 
